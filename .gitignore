@@ -1,0 +1,11 @@
+bin
+build
+*.txt
+*.jar
+*.srg
+*.temp
+*.bin
+*.lock
+*.class
+*.md5
+*.log
