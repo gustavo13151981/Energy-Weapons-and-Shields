@@ -1,8 +1,8 @@
-package com.ews.energyweaponsandshields.items;
+package com.ews.items;
 
-import com.ews.energyweaponsandshields.Main;
-import com.ews.energyweaponsandshields.init.ModItems;
-import com.ews.energyweaponsandshields.util.IHasModel;
+import com.ews.Main;
+import com.ews.init.ModItems;
+import com.ews.util.IHasModel;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;

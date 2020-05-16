@@ -1,9 +1,9 @@
-package com.ews.energyweaponsandshields.init;
+package com.ews.init;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.ews.energyweaponsandshields.items.ItemBase;
+import com.ews.items.ItemBase;
 
 import net.minecraft.item.Item;
 

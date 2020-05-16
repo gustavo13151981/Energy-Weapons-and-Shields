@@ -1,4 +1,4 @@
-package com.ews.energyweaponsandshields.proxy;
+package com.ews.proxy;
 
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;

@@ -1,4 +1,4 @@
-package com.ews.energyweaponsandshields.util;
+package com.ews.util;
 
 public interface IHasModel 
 {

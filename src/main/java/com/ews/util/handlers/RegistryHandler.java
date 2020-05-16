@@ -1,7 +1,7 @@
-package com.ews.energyweaponsandshields.util.handlers;
+package com.ews.util.handlers;
 
-import com.ews.energyweaponsandshields.init.ModItems;
-import com.ews.energyweaponsandshields.util.IHasModel;
+import com.ews.init.ModItems;
+import com.ews.util.IHasModel;
 
 import net.minecraft.item.Item;
 import net.minecraftforge.client.event.ModelRegistryEvent;

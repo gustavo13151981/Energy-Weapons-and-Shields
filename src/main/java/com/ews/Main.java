@@ -1,7 +1,7 @@
-package com.ews.energyweaponsandshields;
+package com.ews;
 
-import com.ews.energyweaponsandshields.proxy.CommonProxy;
-import com.ews.energyweaponsandshields.util.Reference;
+import com.ews.proxy.CommonProxy;
+import com.ews.util.Reference;
 
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
