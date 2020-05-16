@@ -1,10 +1,2 @@
 bin
 build
-*.txt
-*.srg
-*.temp
-*.bin
-*.lock
-*.class
-*.md5
-*.log
