@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Energy-Weapons-and-Shields</name>
-	<comment>Project Energy-Weapons-and-Shields created by Buildship.</comment>
-	<projects>
-	</projects>
+	<name>EnergyWeaponsAndShields</name>
+	<comment></comment>
+	<projects/>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
 	<buildSpec>
 		<buildCommand>
-			<name>org.eclipse.buildship.core.gradleprojectbuilder</name>
-			<arguments>
-			</arguments>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments/>
 		</buildCommand>
 	</buildSpec>
-	<natures>
-		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
-	</natures>
+	<linkedResources/>
+	<filteredResources/>
 </projectDescription>

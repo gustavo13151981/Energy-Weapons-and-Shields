@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "ews",
+  "name": "Energy Weapons And Shields",
+  "description": "This mod gives Energy Weapons and Shields!",
+  "version": "0.0.1",
+  "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["AlphaWolf"],
+  "credits": "AlphaWolf",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
