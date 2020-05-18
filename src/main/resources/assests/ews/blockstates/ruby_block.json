@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "ews:ruby_block" }
+    }
+}

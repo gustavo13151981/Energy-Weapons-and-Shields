@@ -1,14 +1,14 @@
 [
 {
   "modid": "ews",
-  "name": "Energy Weapons And Shields",
-  "description": "This mod gives Energy Weapons and Shields!",
+  "name": "Energy Swords and Shields", 
+  "description": "None",
   "version": "0.0.1",
   "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",
-  "authorList": ["AlphaWolf"],
-  "credits": "AlphaWolf",
+  "authorList": [""],
+  "credits": "FranFranJams", "Josh65"
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
