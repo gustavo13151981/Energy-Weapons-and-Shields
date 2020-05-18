@@ -1,5 +1,5 @@
 {
     "variants": {
-        "normal": { "model": "ews:ruby_block" }
+        "normal": { "model": "ews:blocks/ruby_block" }
     }
 }
