@@ -1,14 +1,14 @@
 [
 {
   "modid": "ews",
-  "name": "Energy Swords and Shields", 
-  "description": "None",
-  "version": "0.0.1",
+  "name": "Energy Weapons and Shields", 
+  "description": "This mod contains OP and cool stuff",
+  "version": "0.1",
   "mcversion": "1.12.2",
-  "url": "",
-  "updateUrl": "",
-  "authorList": [""],
-  "credits": "FranFranJams", "Josh65"
+  "url": "https://github.com/josh-65/Energy-Weapons-and-Shields",
+  "updateUrl": "https://github.com/josh-65/Energy-Weapons-and-Shields/releases",
+  "authorList": ["FranFranJams"],
+  "credits": "Josh65 for Fixing things.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
