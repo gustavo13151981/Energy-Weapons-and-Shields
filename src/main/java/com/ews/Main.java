@@ -1,5 +1,6 @@
 package com.ews;
 
+import com.ews.creativetabs.EwsTab;
 import com.ews.proxy.CommonProxy;
 import com.ews.util.Reference;
 
@@ -14,6 +15,8 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 @Mod(modid = Reference.MOD_ID, name = Reference.NAME, version = Reference.VERSION)
 public class Main {
 
+	public static final EwsTab EWS_TAB = new EwsTab();
+	
 	@Instance
 	public static Main instance;
 	
