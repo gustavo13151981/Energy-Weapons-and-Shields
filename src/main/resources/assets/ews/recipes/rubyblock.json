@@ -12,13 +12,13 @@
     {
         "R":
         {
-            "item": "sws:ruby"
+            "item": "ews:ruby"
         }
     },
     
     "result":
     {
-        "item": "sws:ruby_block",
+        "item": "ews:ruby_block",
         "count": 1
     }
 }
