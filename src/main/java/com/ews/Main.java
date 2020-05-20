@@ -1,6 +1,7 @@
 package com.ews;
 
 import com.ews.creativetabs.EwsTab;
+import com.ews.init.ModRecipes;
 import com.ews.proxy.CommonProxy;
 import com.ews.util.Reference;
 
@@ -32,7 +33,7 @@ public class Main {
 	@EventHandler
 	public static void init(FMLInitializationEvent event)
 	{
-		
+		ModRecipes.init();
 	}
 	
 	@EventHandler
