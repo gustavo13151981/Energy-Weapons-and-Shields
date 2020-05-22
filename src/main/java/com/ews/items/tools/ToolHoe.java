@@ -3,14 +3,14 @@ package com.ews.items.tools;
 import com.ews.Main;
 import com.ews.init.ModItems;
 import com.ews.util.IHasModel;
-import net.minecraft.item.ItemAxe;
+import net.minecraft.item.ItemHoe;
 
 
 
-public class ToolAxe extends ItemAxe implements IHasModel{
-    public ToolAxe(String name, ToolMaterial material){
+public class ToolHoe extends ItemHoe implements IHasModel{
+    public ToolHoe(String name, ToolMaterial material){
 
-        super(material, 6.5F, -3.2F);
+        super(material);
         setUnlocalizedName(name);
         setRegistryName(name);
         setCreativeTab(Main.EWS_TAB);
