@@ -31,7 +31,7 @@ public class ModItems {
 	//Materials
 	public static final ToolMaterial MATERIAL_RUBY = EnumHelper.addToolMaterial("material_ruby", 15, 2500, 10.0F, 5, 15);
 	public static final ArmorMaterial ARMOR_MATERIAL_RUBY = EnumHelper.addArmorMaterial("armor_material_ruby", Reference.MOD_ID + ":ruby", 20,
-	 new int[] {6, 10, 6, 8}, 15, SoundEvents.ITEM_ARMOR_EQUIP_DIAMOND, 0.0F);
+	 new int[] {6, 8, 10, 6}, 15, SoundEvents.ITEM_ARMOR_EQUIP_DIAMOND, 0.0F);
 
 
 	//Items

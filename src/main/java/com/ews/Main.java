@@ -4,6 +4,7 @@ import com.ews.creativetabs.EwsTab;
 import com.ews.init.ModRecipes;
 import com.ews.proxy.CommonProxy;
 import com.ews.util.Reference;
+import com.ews.world.ModWorldGen;
 
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
@@ -12,6 +13,7 @@ import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
+import net.minecraftforge.fml.common.registry.GameRegistry;
 
 @Mod(modid = Reference.MOD_ID, name = Reference.NAME, version = Reference.VERSION)
 public class Main {
@@ -27,7 +29,7 @@ public class Main {
 	@EventHandler
 	public static void PreInit(FMLPreInitializationEvent event)
 	{
-		
+		GameRegistry.registerWorldGenerator(new ModWorldGen(), 3);
 	}
 	
 	@EventHandler
