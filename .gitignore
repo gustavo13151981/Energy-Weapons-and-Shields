@@ -1,2 +1,14 @@
 bin
 build
+idea
+.idea
+*.txt
+*.srg
+*.temp
+*.bin
+*.lock
+*.class
+*.md5
+*.log
+*.xml
+

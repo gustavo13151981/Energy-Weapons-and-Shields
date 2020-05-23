@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " R ",
+        " R ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "ews:ruby"
+        },
+
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    
+    
+
+    },
+
+    
+    "result":
+    {
+        "item": "ews:ruby_sword",
+        "count": 1
+    }
+}
