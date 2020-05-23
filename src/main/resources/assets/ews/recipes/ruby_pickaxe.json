@@ -3,8 +3,8 @@
     
     "pattern":
     [
-        " R ",
-        " R ",
+        "RRR",
+        " S ",
         " S "
     ],
     
@@ -27,7 +27,7 @@
     
     "result":
     {
-        "item": "ews:ruby_sword",
+        "item": "ews:ruby_pickaxe",
         "count": 1
     }
 }
