@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "TTT",
+        "TTT",
+        "TTT"
+    ],
+    
+    "key":
+    {
+        "T":
+        {
+            "item": "ews:topaz"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ews:topaz_block",
+        "count": 1
+    }
+}

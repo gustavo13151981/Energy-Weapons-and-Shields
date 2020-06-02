@@ -18,5 +18,9 @@ public class ModBlocks {
 
     public static final Block RUBY_ORE = new RubyOre("ruby_ore", Material.IRON);
 
+    public static final Block TOPAZ_BLOCK = new RubyBlock("topaz_block", Material.IRON);
+
+    public static final Block TOPAZ_ORE = new RubyOre("topaz_ore", Material.IRON);
+
 
 }

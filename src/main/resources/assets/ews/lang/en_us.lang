@@ -1,7 +1,11 @@
+//other
 item.ruby.name=Ruby
+item.topaz.name=Topaz
 tile.ruby_block.name=Block of Ruby
+tile.topaz_block.name=Block of Topaz
 itemGroup.ews=Energy Weapons and Shields
 tile.ruby_ore.name=Ruby Ore
+tile.topaz_ore.name=Topaz Ore
 
 //tools
 item.ruby_sword.name=Ruby Sword
@@ -9,6 +13,7 @@ item.ruby_pickaxe.name=Ruby Pickaxe
 item.ruby_axe.name=Ruby Axe
 item.ruby_shovel.name=Ruby Shovel
 item.ruby_hoe.name=Ruby Hoe
+
 
 //armour
 item.ruby_helmet.name=Ruby Helmet
